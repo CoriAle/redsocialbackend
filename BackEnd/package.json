@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "Proyecto api rest full red social",
   "main": "index.js",
-  "engines":{
-    "nodes":"6.9.4"
-  },
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cori Caye Placido",
